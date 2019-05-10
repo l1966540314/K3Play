@@ -1032,3 +1032,25 @@
 最有价值的遗漏，彩民朋友们也知道，绝大多数号码是不会等到大遗漏时才开出，大遗漏只是特殊现象，从历史数据中我们也可以发现，几乎每组号码在其第一个周期内开出的次数占了绝大多数，但是由于这个跨度太大，不可把握，我们不可能每次都去追号，所以我们就挑选一些比较有把握的号码去投资。我们把每组号码的遗漏分成若干个区间，统计出在历史期数中，该组号码在各个遗漏区间段内的出现次数，让彩民对于每组数据的历史遗漏情况一目了然。
 
 这个数据是追风在玩彩过程中摸索出来的，本站将在稍后的时候为彩民做出这种数据，出现次数多的区间，我们可以叫他热区间，出现次数少的我们叫他冷区间，不同的人有不同的看法，就像热号和冷号一样，有人喜欢追热号，有人喜欢追冷号。
+
+### 票据
+
+#### 三不同号
+
+![](https://raw.githubusercontent.com/l1966540314/K3Play/master/Img/%E4%B8%89%E4%B8%8D%E5%90%8C%E5%8F%B7.jpeg)
+
+#### 三同号
+
+![](https://raw.githubusercontent.com/l1966540314/K3Play/master/Img/%E4%B8%89%E5%90%8C%E5%8F%B7.jpeg)
+
+#### 二同号
+
+![](https://raw.githubusercontent.com/l1966540314/K3Play/master/Img/%E4%BA%8C%E5%90%8C%E5%8F%B7.jpeg)
+
+#### 兑奖单
+
+![](https://raw.githubusercontent.com/l1966540314/K3Play/master/Img/%E5%85%91%E5%A5%96%E5%8D%95.jpeg)
+
+#### 结算报表
+
+![](https://raw.githubusercontent.com/l1966540314/K3Play/master/Img/%E7%BB%93%E7%AE%97%E6%8A%A5%E8%A1%A8.jpeg)
